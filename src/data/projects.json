@@ -1,11 +1,11 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "BuzzBistro",
+      "imageSrc": "projects/fooddel.png",
+      "description": "A complete food ordering website with user authentication, shopping cart, admin panel, backend server, and Stripe payment integration.",
+      "skills": ["React", "Express", "Node", "MongoDB", "Toastify"],
+      "demo": "https://buzzbistro.netlify.app/",
+      "source": "https://github.com/nomadbuzz/food-delivery"
     },
     {
       "title": "Project B",
