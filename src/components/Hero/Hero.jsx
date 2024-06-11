@@ -4,7 +4,7 @@ import styles from "./Hero.module.css";
 export const Hero = () =>{
     return (<section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}>Hi, I am Buzz</h1>
+            <h1 className={styles.title}>Hello, I am Buzz</h1>
             <p className={styles.description}>I am a full-stack developer with 1 year of experience using React and NodeJs.
                  Reach out if you'd like to learn more!</p>
             <a className={styles.contactBtn} href="mailto:baz.coding@gmail.com">Contact Me</a>
