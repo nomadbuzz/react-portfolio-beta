@@ -8,12 +8,12 @@
       "source": "https://github.com/nomadbuzz/food-delivery"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Weather App",
+      "imageSrc": "projects/weather.jpg",
+      "description": "This weather app provides real-time city searches with a toggle for metric and imperial units, offering quick and convenient weather updates.",
+      "skills": ["React", "OpenWeatherMap", "Node"],
+      "demo": "https://buzz-weather.netlify.app/",
+      "source": "https://github.com/nomadbuzz/weather.git"
     },
     {
       "title": "Project C",
