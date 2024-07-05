@@ -4,7 +4,7 @@
       "imageSrc": "projects/fooddel.png",
       "description": "A complete food ordering website with user authentication, shopping cart, admin panel, backend server, and Stripe payment integration.",
       "skills": ["React", "Express", "Node", "MongoDB", "Toastify"],
-      "demo": "https://buzzbistro.netlify.app/",
+      "demo": "https://buzz-bistro-frontend.onrender.com/",
       "source": "https://github.com/nomadbuzz/food-delivery"
     },
     {
