@@ -16,12 +16,12 @@
       "source": "https://github.com/nomadbuzz/weather.git"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "To-Do List App",
+      "imageSrc": "projects/project.jpg",
+      "description": "Developed a fully functional To-Do List web application using React.js and Tailwind CSS. The app allows users to add, edit, mark tasks as complete/incomplete, and delete them from the list. Tasks are stored locally in the browser to persist across sessions.",
+      "skills": ["React", "TailwindCSS", "JavaScript"],
+      "demo": "https://buzztodo.netlify.app/",
+      "source": "https://github.com/nomadbuzz/todo/tree/master"
     }
   ]
   
