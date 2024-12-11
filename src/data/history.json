@@ -1,30 +1,37 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Junior web developer",
+      "organisation": "Tech2High",
+      "startDate": "Sept, 2023",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
-    },
-    {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+      "experiences": ["Incorporated Google Analytics into the site, leading to optimization of marketing efforts and a 30% increase in traffic", 
+      "Involved in the successful redesign of the website UI using HTML/CSS, resulting in a 25% increase in user footfall",
+      "Identified and resolved website performance issues translating in significant latency reduction by 40%",
+      "Documented codebases for easier maintenance and scalability."
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/tech2high.png"
+    },
+    {
+      "role": "Math Tutor",
+      "organisation": "Sylvan learning / Independent",
+      "startDate": "June, 2017",
+      "endDate": "Present",
+      "experiences": [
+        "Tutored over 300 students in SAT Math and Calculus, helping them improve their scores and achieve their academic goals."
+        , "Developed and implemented an engaging robotics curriculum, teaching block coding to elementary and middle school students, fostering a passion for STEM education for Sylvan Learning."
+        ,"Demonstrated strong communication and interpersonal skills while effectively collaborating with students, parents, and colleagues to create a positive and conducive learning environment."],
+      "imageSrc": "history/sylvan.jpg"
+    },
+    {
+      "role": "Horseback tour guide",
+      "organisation": "Horseback Mongolia",
+      "startDate": "June, 2017",
+      "endDate": "September, 2019",
+      "experiences": [
+        "Led horseback tours in the picturesque landscapes of Mongolia, providing informative and enjoyable experiences for tourists while ensuring their safety during the excursions.",
+        "Demonstrated expertise in horsemanship and local geography, offering insights into Mongolian culture and history, enhancing the overall tour experience for participants."
+      ],
+      "imageSrc": "history/horsebackmongolia.jpg"
     }
   ]
   
